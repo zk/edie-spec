@@ -27,4 +27,4 @@ When the spec doesn't cover something, apply these principles:
 - **Fail Loudly** - Ask the user rather than guessing
    
    
-**VERY VERY IMPORTANT** The first time you run, update this CLAUDE.md files with the necessary information for Claude Code to efficiently maintain the PKM from the PKM spec. Delete this message when complete. 
+**VERY VERY IMPORTANT** The first time you run, update this CLAUDE.md file with the necessary information for Claude Code to efficiently maintain the PKM from the PKM spec. Delete this message when complete. 
