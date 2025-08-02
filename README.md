@@ -13,4 +13,4 @@ This codebase contains Edie, a personal knowledge management (PKM) system design
 
 ## Caveats
 
-- Edie starts slow as it has to think about which parts of the PKM to create (directory structure, files). As you add information things speed up a bit.
+- Edie starts slow as she thinks about which parts of the PKM to create (directory structure, files). As you add information things speed up a bit.
