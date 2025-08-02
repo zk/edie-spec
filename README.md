@@ -4,7 +4,7 @@ This codebase contains Edie, a personal knowledge management (PKM) system design
 
 ## Documentation
 
-- **Operational Guidelines**: See [/spec/PKM_Spec.md](/spec/PKM_Spec.md) for detailed instructions on managing the PKM
+- **Operational Guidelines**: See [spec/PKM_spec.md](spec/PKM_spec.md) for detailed instructions on managing the PKM
 
 ## Usage
 

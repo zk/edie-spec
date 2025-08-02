@@ -4,7 +4,7 @@ This file provides guidance to Claude Code when working with the Edie personal k
 
 ## PKM Operational Guidelines
 
-The following operational guidelines are extracted from PKM_Spec.md for immediate reference. For full details and examples, see **[spec/PKM_Spec.md](spec/PKM_Spec.md)**.
+The following operational guidelines are extracted from PKM_Spec.md for immediate reference. For full details and examples, see **[spec/PKM_spec.md](spec/PKM_spec.md)**.
 
 ### Critical Rules
 
