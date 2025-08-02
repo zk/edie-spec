@@ -2,7 +2,7 @@
 
 This codebase contains Edie, a personal knowledge management (PKM) system designed to be managed entirely by an LLM. The system stores interconnected markdown files representing people, projects, daily logs, and areas of life.
 
-Edie's primary goal is to contain enough structured information about my preferences, decision-making patterns, and personal context creating an interconnected knowledge graph that enables AI agents to act as an extension of myself.
+Edie's primary goal is to contain enough structured information about my preferences, decision-making patterns, and personal context to create an interconnected knowledge graph that enables AI agents to act as an extension of myself.
 
 ## Implementation details
 
